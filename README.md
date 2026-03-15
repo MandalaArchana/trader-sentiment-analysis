@@ -208,5 +208,5 @@ trader-sentiment-analysis/
 
 ---
 
-*Submitted for the Junior Data Scientist role at PrimeTrade.ai*  
+
 *Analysis based on 211,218 real trades from Hyperliquid DEX (May 2023 – May 2025)*
